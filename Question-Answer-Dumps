@@ -1,0 +1,11 @@
+1.You are building a solution that will detect anomalies in sensor data from the previous 24 hours.
+
+  You need to ensure that the solution scans the entire dataset, at the same time, for anomalies.
+
+  Which type of detection should you use?
+
+  A. batch
+  B. streaming
+  C. change points
+
+  Answer: batch
