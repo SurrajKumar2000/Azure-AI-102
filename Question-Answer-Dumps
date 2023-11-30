@@ -22,4 +22,17 @@
   Answer: ->Pull an image from the microsoft container registry (MCR)
           ->Provision an on-premises kubernetes cluster that is isolated from the internet
           ->Run the container and specify an API key and endpoint URL of the Cognitive Services resource
+
+3.You have an app that captures live video of exam candidates.
+
+  You need to use the Face service to validate that the subjects of the videos are real people.
+
+  What should you do?
+
+  A. Call the face detection API and retrieve the face rectangle by using the FaceRectangle attribute.
+  B. Call the face detection API repeatedly and check for changes to the FaceAttributes.HeadPose attribute.
+  C. Call the face detection API and use the FaceLandmarks attribute to calculate the distance between pupils.
+  D. Call the face detection API repeatedly and check for changes to the FaceAttributes.Accessories attribute.
+
+  Answer: A. Call the face detection API and retrieve the face rectangle by using the FaceRectangle attribute.
   
