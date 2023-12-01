@@ -35,4 +35,17 @@
   D. Call the face detection API repeatedly and check for changes to the FaceAttributes.Accessories attribute.
 
   Answer: A. Call the face detection API and retrieve the face rectangle by using the FaceRectangle attribute.
+
+4.  You are building a conversational language understanding model.
+
+  You need to enable active learning.
+  
+  What should you do?
+
+  A. Add show-all-intents=true to the prediction endpoint query.
+  B. Enable speech priming.
+  C. Add log=true to the prediction endpoint query.
+  D. Enable sentiment analysis.
+
+  Answer: C. Add log=true to the prediction endpoint query.
   
